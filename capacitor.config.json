@@ -1,0 +1,9 @@
+{
+  "appId": "fr.loic.agendadevie",
+  "appName": "Agenda de vie",
+  "webDir": "www",
+  "android": { "backgroundColor": "#0F1115" },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat_agenda", "iconColor": "#3FB8A5" }
+  }
+}
